@@ -1,6 +1,9 @@
 {
   "name": "base44-app",
   "private": true,
+   "engines": {
+    "node": ">=20"
+  },
   "version": "0.0.0",
   "type": "module",
   "scripts": {
