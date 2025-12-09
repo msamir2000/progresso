@@ -13,6 +13,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@hello-pangea/dnd": "^16.3.1",
     "@tanstack/react-query": "^5.51.9",
     "@base44/sdk": "^0.1.2",
     "@hookform/resolvers": "^4.1.2",
@@ -65,6 +66,7 @@
     "zod": "^3.24.2"
   },
   "devDependencies": {
+    "@hello-pangea/dnd": "^16.3.1",
     "@tanstack/react-query": "^5.51.9",
     "@eslint/js": "^9.19.0",
     "@flydotio/dockerfile": "^0.7.8",
