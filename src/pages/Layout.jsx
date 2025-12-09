@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { createPageUrl } from './utils';
+import { createPageUrl } from '../utils';
 import { usePermissions } from '@/components/utils/usePermissions';
 import { 
   LayoutDashboard, 
