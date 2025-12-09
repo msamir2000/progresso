@@ -13,6 +13,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "react-markdown": "^8.0.7",
+    "react-markdown": "^8.0.7",
     "@hello-pangea/dnd": "^16.3.1",
     "@tanstack/react-query": "^5.51.9",
     "@base44/sdk": "^0.1.2",
